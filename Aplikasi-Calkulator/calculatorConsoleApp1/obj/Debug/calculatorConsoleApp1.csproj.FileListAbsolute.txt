@@ -1,0 +1,6 @@
+C:\Users\aziz\Downloads\calculatorApplication-main\calculatorApplication-main\calculatorConsoleApp1\bin\Debug\calculatorConsoleApp1.exe.config
+C:\Users\aziz\Downloads\calculatorApplication-main\calculatorApplication-main\calculatorConsoleApp1\bin\Debug\calculatorConsoleApp1.exe
+C:\Users\aziz\Downloads\calculatorApplication-main\calculatorApplication-main\calculatorConsoleApp1\bin\Debug\calculatorConsoleApp1.pdb
+C:\Users\aziz\Downloads\calculatorApplication-main\calculatorApplication-main\calculatorConsoleApp1\obj\Debug\calculatorConsoleApp1.csprojAssemblyReference.cache
+C:\Users\aziz\Downloads\calculatorApplication-main\calculatorApplication-main\calculatorConsoleApp1\obj\Debug\calculatorConsoleApp1.exe
+C:\Users\aziz\Downloads\calculatorApplication-main\calculatorApplication-main\calculatorConsoleApp1\obj\Debug\calculatorConsoleApp1.pdb
